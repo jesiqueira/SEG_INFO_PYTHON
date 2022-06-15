@@ -22,4 +22,4 @@ else:
     print('O hash do arquivo b.txt é: ', hash_2.hexdigest()) 
     print('O hash do arquivo b.txt é: ', hash_2.hexdigest()) 
     print('O hash do arquivo a.txt é: ', hash_1.hexdigest())
-    print('O hash do arquivo b.txt é: ', hash_2.hexdigest()) 
+    print('O hash do arquivo b.txt é: ', hash_2.hexdigest())
